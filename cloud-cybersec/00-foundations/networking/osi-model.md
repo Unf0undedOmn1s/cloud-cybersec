@@ -1,5 +1,5 @@
 ### OSI Model (Open Systems Interconnection)
-## Layer 1: Pysical Layer
+## Layer 1: Physical Layer
 - Function: Transmite raw bits (0,1) over cables, WiFi, Fiber.
 - Devices: Hubs, Repeaters, Cables (Ethernet, etc.)
 - Security Risks: 
