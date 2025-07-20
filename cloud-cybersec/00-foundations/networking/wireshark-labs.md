@@ -8,7 +8,7 @@ frame.time,ip.src,http.host,http.user_agent
 "2025-18-07 12:00:01",192.0.2.1,example.com,"Mozilla/5.0 (Windows NT 10.0)"
 "2025-18-07 12:00:02",192.0.2.2,api.example.com,"curl/7.68.0"
 ```
-# ** Why This is GitHub-Safe**
+# *GitHub-Safe*
 1. **No Payloads**: Only extracts headers (no POST data/cookies)  
 2. **Test IPs**: Uses `192.0.2.0/24` (reserved for documentation)  
 3. **CSV Format**: Easy to audit/review before committing
