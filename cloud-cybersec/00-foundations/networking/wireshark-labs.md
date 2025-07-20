@@ -14,7 +14,7 @@ frame.time,ip.src,http.host,http.user_agent
 3. **CSV Format**: Easy to audit/review before committing
 
 ### Wireshark & Tshark Guide
-#*A privacy-focused packet analysis reference*
+# *A privacy-focused packet analysis reference*
 
 ## Basic Capture Syntax
 `tshark -i <interface> -f <capture_filter> -w <output_file>`
